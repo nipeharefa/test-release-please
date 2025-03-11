@@ -4,8 +4,8 @@
     "release-type": "simple",
     "separate-pull-requests": true,
     "packages": {
-      "./service-a": {
-        "service-a": "svca"
+      "./rust": {
+        "rust": "rust"
       }
     }
   }
