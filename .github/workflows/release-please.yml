@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - releaseplease
+      - main
 
 permissions:
   contents: write
@@ -16,5 +17,5 @@ jobs:
         with:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
-          target-branch: ${{ github.ref_name }}
+          # target-branch: ${{ github.ref_name }}
           release-type: simple
