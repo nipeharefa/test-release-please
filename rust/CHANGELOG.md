@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/nipeharefa/test-release-please/compare/v0.2.0...v0.2.1) (2025-03-11)
+
+
+### Miscellaneous Chores
+
+* release 0.2.1 ([f51f1f6](https://github.com/nipeharefa/test-release-please/commit/f51f1f67b6f08338c10b54d590a93c492c1b241e))
+
 ## [0.2.0](https://github.com/nipeharefa/test-release-please/compare/v0.1.0...v0.2.0) (2025-03-11)
 
 
