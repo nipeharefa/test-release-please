@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/nipeharefa/test-release-please/compare/v1.0.0...v1.1.0) (2025-03-11)
+
+
+### Features
+
+* **rust:** update ([#6](https://github.com/nipeharefa/test-release-please/issues/6)) ([6cde066](https://github.com/nipeharefa/test-release-please/commit/6cde0669232801473617ea68d321794d695ee171))
+
 ## 1.0.0 (2025-03-11)
 
 
