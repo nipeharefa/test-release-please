@@ -9,7 +9,7 @@
         "tag-separator": "@",
         "component": "rust",
         "package-name": "rust",
-        "release-type": "go"
+        "release-type": "simple"
       }
     }
   }
