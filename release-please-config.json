@@ -3,8 +3,8 @@
     "tag-separator": "@",
     "separate-pull-requests": true,
     "packages": {
-      "./rust": {
-        "rust": "rust",
+      "rust": {
+        "path": "./rust",
         "release-type": "go"
       }
     }
