@@ -6,6 +6,8 @@
     "packages": {
       "rust": {
         "path": "./rust",
+        "component": "rust",
+        "package-name": "rust",
         "release-type": "go"
       }
     }
