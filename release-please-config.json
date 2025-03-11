@@ -6,6 +6,9 @@
     "packages": {
       "rust": {
         "path": "./rust",
+        "tag-separator": "@",
+        "component": "rust",
+        "package-name": "rust",
         "release-type": "go"
       }
     }
