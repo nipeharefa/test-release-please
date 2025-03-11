@@ -1,9 +1,9 @@
 on:
   workflow_dispatch:
-  # push:
-  #   branches:
-  #     - releaseplease
-  #     - main
+  push:
+    branches:
+      - releaseplease
+      - main
 
 permissions:
   contents: write
